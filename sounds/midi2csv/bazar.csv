@@ -1,0 +1,29 @@
+0, 0, Header, 0, 1, 480
+1, 0, Start_track
+1, 0, Channel_prefix, 0
+1, 0, Title_t, "bazaar"
+1, 0, Instrument_name_t, "Classic Electric Piano"
+1, 0, Time_signature, 4, 2, 24, 8
+1, 0, Key_signature, 0, "major"
+1, 0, SMPTE_offset, 33, 0, 0, 0, 0
+1, 0, Tempo, 526316
+1, 0, Note_on_c, 0, 56, 45
+1, 364, Note_off_c, 0, 56, 0
+1, 375, Note_on_c, 0, 59, 56
+1, 664, Note_off_c, 0, 59, 0
+1, 679, Note_on_c, 0, 62, 59
+1, 902, Note_off_c, 0, 62, 0
+1, 911, Note_on_c, 0, 63, 56
+1, 1148, Note_off_c, 0, 63, 0
+1, 1158, Note_on_c, 0, 62, 59
+1, 1403, Note_off_c, 0, 62, 0
+1, 1413, Note_on_c, 0, 59, 57
+1, 1686, Note_off_c, 0, 59, 0
+1, 1695, Note_on_c, 0, 62, 59
+1, 1933, Note_off_c, 0, 62, 0
+1, 1942, Note_on_c, 0, 63, 56
+1, 2178, Note_off_c, 0, 63, 0
+1, 2188, Note_on_c, 0, 62, 59
+1, 2671, Note_off_c, 0, 62, 0
+1, 21917, End_track
+0, 0, End_of_file

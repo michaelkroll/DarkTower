@@ -1,0 +1,33 @@
+0, 0, Header, 0, 1, 480
+1, 0, Start_track
+1, 0, Channel_prefix, 0
+1, 0, Title_t, "plague"
+1, 0, Instrument_name_t, "Classic Electric Piano"
+1, 0, Time_signature, 4, 2, 24, 8
+1, 0, Key_signature, 0, "major"
+1, 0, SMPTE_offset, 33, 0, 0, 0, 0
+1, 0, Tempo, 526316
+1, 0, Note_on_c, 0, 56, 43
+1, 228, Note_off_c, 0, 56, 0
+1, 244, Note_on_c, 0, 56, 44
+1, 474, Note_off_c, 0, 56, 0
+1, 487, Note_on_c, 0, 56, 39
+1, 575, Note_off_c, 0, 56, 0
+1, 584, Note_on_c, 0, 56, 44
+1, 1031, Note_off_c, 0, 56, 0
+1, 1044, Note_on_c, 0, 59, 54
+1, 1213, Note_off_c, 0, 59, 0
+1, 1231, Note_on_c, 0, 58, 51
+1, 1423, Note_off_c, 0, 58, 0
+1, 1439, Note_on_c, 0, 58, 49
+1, 1615, Note_off_c, 0, 58, 0
+1, 1631, Note_on_c, 0, 56, 42
+1, 1860, Note_off_c, 0, 56, 0
+1, 1874, Note_on_c, 0, 56, 42
+1, 2071, Note_off_c, 0, 56, 0
+1, 2086, Note_on_c, 0, 55, 42
+1, 2307, Note_off_c, 0, 55, 0
+1, 2324, Note_on_c, 0, 56, 43
+1, 2536, Note_off_c, 0, 56, 0
+1, 21755, End_track
+0, 0, End_of_file

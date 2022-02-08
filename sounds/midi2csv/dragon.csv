@@ -1,0 +1,77 @@
+0, 0, Header, 0, 1, 480
+1, 0, Start_track
+1, 0, Channel_prefix, 0
+1, 0, Title_t, "dragon"
+1, 0, Instrument_name_t, "Classic Electric Piano"
+1, 0, Time_signature, 4, 2, 24, 8
+1, 0, Key_signature, 0, "major"
+1, 0, SMPTE_offset, 33, 0, 0, 0, 0
+1, 0, Tempo, 526316
+1, 0, Note_on_c, 0, 84, 70
+1, 30, Note_off_c, 0, 84, 0
+1, 30, Note_on_c, 0, 84, 70
+1, 60, Note_off_c, 0, 84, 64
+1, 60, Note_on_c, 0, 84, 70
+1, 90, Note_off_c, 0, 84, 64
+1, 90, Note_on_c, 0, 84, 70
+1, 120, Note_off_c, 0, 84, 64
+1, 120, Note_on_c, 0, 84, 70
+1, 150, Note_off_c, 0, 84, 64
+1, 150, Note_on_c, 0, 84, 70
+1, 180, Note_off_c, 0, 84, 64
+1, 180, Note_on_c, 0, 84, 70
+1, 210, Note_off_c, 0, 84, 64
+1, 210, Note_on_c, 0, 84, 70
+1, 240, Note_off_c, 0, 84, 64
+1, 240, Note_on_c, 0, 84, 70
+1, 270, Note_off_c, 0, 84, 0
+1, 270, Note_on_c, 0, 84, 70
+1, 300, Note_off_c, 0, 84, 64
+1, 300, Note_on_c, 0, 84, 70
+1, 330, Note_off_c, 0, 84, 64
+1, 330, Note_on_c, 0, 84, 70
+1, 360, Note_off_c, 0, 84, 64
+1, 360, Note_on_c, 0, 84, 70
+1, 390, Note_off_c, 0, 84, 64
+1, 390, Note_on_c, 0, 84, 70
+1, 420, Note_off_c, 0, 84, 64
+1, 420, Note_on_c, 0, 84, 70
+1, 450, Note_off_c, 0, 84, 64
+1, 450, Note_on_c, 0, 84, 70
+1, 480, Note_off_c, 0, 84, 64
+1, 480, Note_on_c, 0, 84, 70
+1, 510, Note_off_c, 0, 84, 0
+1, 510, Note_on_c, 0, 84, 70
+1, 540, Note_off_c, 0, 84, 64
+1, 540, Note_on_c, 0, 84, 70
+1, 570, Note_off_c, 0, 84, 64
+1, 570, Note_on_c, 0, 84, 70
+1, 600, Note_off_c, 0, 84, 64
+1, 600, Note_on_c, 0, 84, 70
+1, 630, Note_off_c, 0, 84, 64
+1, 630, Note_on_c, 0, 84, 70
+1, 660, Note_off_c, 0, 84, 64
+1, 660, Note_on_c, 0, 84, 70
+1, 690, Note_off_c, 0, 84, 64
+1, 690, Note_on_c, 0, 84, 70
+1, 720, Note_off_c, 0, 84, 64
+1, 720, Note_on_c, 0, 84, 70
+1, 750, Note_off_c, 0, 84, 64
+1, 750, Note_on_c, 0, 84, 70
+1, 780, Note_off_c, 0, 84, 0
+1, 780, Note_on_c, 0, 84, 70
+1, 810, Note_off_c, 0, 84, 64
+1, 810, Note_on_c, 0, 84, 70
+1, 840, Note_off_c, 0, 84, 64
+1, 840, Note_on_c, 0, 84, 70
+1, 870, Note_off_c, 0, 84, 64
+1, 870, Note_on_c, 0, 84, 70
+1, 900, Note_off_c, 0, 84, 64
+1, 900, Note_on_c, 0, 84, 70
+1, 930, Note_off_c, 0, 84, 64
+1, 930, Note_on_c, 0, 84, 70
+1, 960, Note_off_c, 0, 84, 64
+1, 960, Note_on_c, 0, 84, 70
+1, 990, Note_off_c, 0, 84, 64
+1, 20212, End_track
+0, 0, End_of_file

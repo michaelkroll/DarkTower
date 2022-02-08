@@ -1,0 +1,37 @@
+0, 0, Header, 0, 1, 480
+1, 0, Start_track
+1, 0, Channel_prefix, 0
+1, 0, Title_t, "dragon-kill"
+1, 0, Instrument_name_t, "Classic Electric Piano"
+1, 0, Time_signature, 4, 2, 24, 8
+1, 0, Key_signature, 0, "major"
+1, 0, SMPTE_offset, 33, 0, 0, 0, 0
+1, 0, Tempo, 526316
+1, 28, Note_on_c, 0, 74, 73
+1, 91, Note_off_c, 0, 74, 0
+1, 95, Note_on_c, 0, 69, 73
+1, 156, Note_off_c, 0, 69, 0
+1, 171, Note_on_c, 0, 66, 66
+1, 246, Note_off_c, 0, 66, 0
+1, 256, Note_on_c, 0, 63, 59
+1, 319, Note_off_c, 0, 63, 0
+1, 331, Note_on_c, 0, 61, 59
+1, 447, Note_off_c, 0, 61, 0
+1, 464, Note_on_c, 0, 59, 59
+1, 547, Note_off_c, 0, 59, 0
+1, 561, Note_on_c, 0, 57, 56
+1, 693, Note_off_c, 0, 57, 0
+1, 703, Note_on_c, 0, 56, 52
+1, 803, Note_off_c, 0, 56, 0
+1, 851, Note_on_c, 0, 54, 51
+1, 995, Note_off_c, 0, 54, 0
+1, 1010, Note_on_c, 0, 53, 45
+1, 1113, Note_off_c, 0, 53, 0
+1, 1126, Note_on_c, 0, 52, 47
+1, 1259, Note_off_c, 0, 52, 0
+1, 1276, Note_on_c, 0, 51, 47
+1, 1541, Note_off_c, 0, 51, 0
+1, 1557, Note_on_c, 0, 50, 45
+1, 2490, Note_off_c, 0, 50, 0
+1, 21714, End_track
+0, 0, End_of_file

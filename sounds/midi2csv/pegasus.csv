@@ -1,0 +1,23 @@
+0, 0, Header, 0, 1, 480
+1, 0, Start_track
+1, 0, Channel_prefix, 0
+1, 0, Title_t, "pegasus"
+1, 0, Instrument_name_t, "Classic Electric Piano"
+1, 0, Time_signature, 4, 2, 24, 8
+1, 0, Key_signature, 0, "major"
+1, 0, SMPTE_offset, 33, 0, 0, 0, 0
+1, 0, Tempo, 526316
+1, 47, Note_on_c, 0, 63, 46
+1, 100, Note_off_c, 0, 63, 0
+1, 104, Note_on_c, 0, 65, 48
+1, 146, Note_off_c, 0, 65, 0
+1, 163, Note_on_c, 0, 66, 57
+1, 219, Note_off_c, 0, 66, 0
+1, 231, Note_on_c, 0, 70, 62
+1, 292, Note_off_c, 0, 70, 0
+1, 301, Note_on_c, 0, 71, 64
+1, 347, Note_off_c, 0, 71, 0
+1, 356, Note_on_c, 0, 75, 55
+1, 420, Note_off_c, 0, 75, 0
+1, 19885, End_track
+0, 0, End_of_file

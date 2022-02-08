@@ -1,0 +1,27 @@
+0, 0, Header, 0, 1, 480
+1, 0, Start_track
+1, 0, Channel_prefix, 0
+1, 0, Title_t, "clear"
+1, 0, Instrument_name_t, "Classic Electric Piano"
+1, 0, Time_signature, 4, 2, 24, 8
+1, 0, Key_signature, 0, "major"
+1, 0, SMPTE_offset, 33, 0, 0, 0, 0
+1, 0, Tempo, 526316
+1, 0, Note_on_c, 0, 69, 67
+1, 157, Note_off_c, 0, 69, 0
+1, 174, Note_on_c, 0, 81, 87
+1, 303, Note_off_c, 0, 81, 0
+1, 313, Note_on_c, 0, 69, 76
+1, 485, Note_off_c, 0, 69, 0
+1, 498, Note_on_c, 0, 81, 89
+1, 659, Note_off_c, 0, 81, 0
+1, 676, Note_on_c, 0, 69, 74
+1, 823, Note_off_c, 0, 69, 0
+1, 834, Note_on_c, 0, 81, 89
+1, 996, Note_off_c, 0, 81, 0
+1, 1010, Note_on_c, 0, 69, 74
+1, 1151, Note_off_c, 0, 69, 0
+1, 1166, Note_on_c, 0, 81, 89
+1, 1307, Note_off_c, 0, 81, 0
+1, 20577, End_track
+0, 0, End_of_file

@@ -1,0 +1,29 @@
+0, 0, Header, 0, 1, 480
+1, 0, Start_track
+1, 0, Channel_prefix, 0
+1, 0, Title_t, "lost"
+1, 0, Instrument_name_t, "Classic Electric Piano"
+1, 0, Time_signature, 4, 2, 24, 8
+1, 0, Key_signature, 0, "major"
+1, 0, SMPTE_offset, 33, 0, 0, 0, 0
+1, 0, Tempo, 526316
+1, 2, Note_on_c, 0, 78, 71
+1, 73, Note_on_c, 0, 78, 0
+1, 84, Note_on_c, 0, 73, 73
+1, 173, Note_on_c, 0, 73, 0
+1, 186, Note_on_c, 0, 69, 66
+1, 311, Note_on_c, 0, 69, 0
+1, 325, Note_on_c, 0, 65, 55
+1, 484, Note_on_c, 0, 65, 0
+1, 494, Note_on_c, 0, 63, 58
+1, 657, Note_on_c, 0, 63, 0
+1, 670, Note_on_c, 0, 60, 53
+1, 903, Note_on_c, 0, 60, 0
+1, 914, Note_on_c, 0, 58, 53
+1, 1140, Note_on_c, 0, 58, 0
+1, 1154, Note_on_c, 0, 56, 48
+1, 1432, Note_on_c, 0, 56, 0
+1, 1445, Note_on_c, 0, 55, 46
+1, 1720, Note_on_c, 0, 55, 0
+1, 20957, End_track
+0, 0, End_of_file
